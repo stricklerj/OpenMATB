@@ -1,4 +1,17 @@
+<h1>Modifications:</h1>
+<ul>
+    <li>Only show resources management task in fullscreen</li>
+    <li>Pause simulation with space bar</li>
+    <li>Minor optical adjustments</li>
+    <li>Evaluation script</li>
+</ul>
 
+<ul>
+    <li>Edit plant.txt to modify the scenario</li>
+    <li>Edit screen_idx variable in OpenMATB.py if you use a multiscreen setup</li>
+</ul>
+
+<h3>Forked Sep 2021</h3>
 <h1>OpenMATB: An open-source version of the Multi-Attribute Task Battery (MATB)</h1>
 
 <b><a href="https://github.com/juliencegarra/OpenMATB/releases/download/1.1/OpenMATB_v1.1.000.zip">Click here to download the last binary for Windows (v1.1)</a></b>
